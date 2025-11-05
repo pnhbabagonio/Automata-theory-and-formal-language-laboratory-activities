@@ -15,4 +15,4 @@
 | 101111 | ABBBBC | C_C |
 
 ## Code
-Python implementation available in `moore_machine.py`
+Python implementation for the convertion of Moore Machine is in the `FinalTerm-Lab2/MooreMachine.py`
